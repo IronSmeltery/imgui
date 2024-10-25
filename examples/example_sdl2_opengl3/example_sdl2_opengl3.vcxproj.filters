@@ -64,4 +64,9 @@
       <Filter>imgui</Filter>
     </None>
   </ItemGroup>
+  <ItemGroup>
+    <CopyFileToFolders Include="C:\GameDev\SDL\dll\SDL2.dll">
+      <Filter>sources</Filter>
+    </CopyFileToFolders>
+  </ItemGroup>
 </Project>
